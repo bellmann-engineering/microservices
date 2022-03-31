@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v1uUYiKwC2/5tNUZEhSkml2bNFdPJevcvSEkEZD+t+0BG1hM9GCDUJfgCxubR1IV7GvpD9aRE+tEHMg5boy6lQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kai\\source\\repos\\WebApp\\WebApp\\WebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kai\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
