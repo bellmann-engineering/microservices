@@ -1,14 +1,12 @@
-von root Folder der Solution aus:
+1) von root Folder der Solution aus:
 docker build -t webappimage -f WebApp/Dockerfile .
 
-Start als Deamon / Port mapping beachten:
+2) Start als Deamon / Port mapping beachten:
 docker run -d -p 8080:80 --name webappcontainer webappimage
 
-Prüfen:
+3) Prüfen:
 docker ps
 
-Curl:
-curl -v http://localhost:8080/weatherforecast
+4) curl -v http://localhost:8080/weatherforecast
 
-Browser:
-http://localhost:8080/weatherforecast
+5) im Webbrowser: http://localhost:8080/weatherforecast
