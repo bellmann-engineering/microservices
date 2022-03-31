@@ -1,6 +1,3 @@
-# docker build -t rest-api-image .
-# docker run -p 5100:5100 rest-api-image:latest
-
 FROM python:3.9.1-alpine3.12
 
 RUN pip install flask
